@@ -1,6 +1,6 @@
-﻿# Laravel 3DES
+﻿# lumen 加密解密
 
-Laravel 3DES加密解密，和java,ios互通，使用openssl，必须有openssl扩展
+lumen加密解密
 
 ### 安装方法 ###
 
@@ -10,7 +10,7 @@ composer require bestecho/lumen-msign
 
 ### 配置方法 ###
 
-配置加密key和iv,如下。也可动态使用key和iv
+配置加密key和密钥,如下。
 
 ```php
 config文件夹下创建msign.php
