@@ -1,0 +1,19 @@
+{
+    "name": "joyriddle/msign",
+    "description": "joyriddlmsign",
+    "keywords": ["msign"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "JoyRiddle\\MSign\\": "src"
+        }
+    },
+    "autoload-dev": {
+
+    }
+}
